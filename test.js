@@ -14,3 +14,7 @@ console.log(nama);
 //karakteristil
 let angka = 99;
 console.log(angka + 1);
+
+// Haha
+let haha = "hahah";
+console.log(haha);
